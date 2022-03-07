@@ -26,7 +26,7 @@ def inc_counter():
 
 def set_flag(val):
 	global flag	
-         flag=val
+        flag=val
 
 def set_safe():
 	global safe
